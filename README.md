@@ -6,9 +6,11 @@
   </a>
 </h1>
 <br>
-<p>
-  Hello! I'm Kaye Anne Mirador, a Computer Science student at <a href="https://www.auf.edu.ph"> Angeles University Foundation </a>, 
+<p align="center">
+  Hello! I'm Kaye Anne Mirador, a Computer Science student at <a href="https://www.auf.edu.ph"> Angeles University Foundation</a>, 
   <br> and I finished IT in Mobile Application and Web Development at <a href="https://www.facebook.com/angeles.sti.edu"> STI College </a> 📕👩🏻‍💻
+  </p>
+  <p>
   <br>
   🌱 I'm currently learning about Java and Data Structures in R. 💻
   <br> 
@@ -18,6 +20,7 @@
   <br> 
   ⚡ Fun Fact: Don't like dark mode. Oof.
   <br> 
+  </p>
 <div align="center"> 
   <a href="https://www.facebook.com/keigvn/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
