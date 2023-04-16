@@ -7,7 +7,8 @@
 </h1>
 <br>
 <p>
-  Hello! I'm Kaye Anne Mirador, a Computer Science student at <a href="https://www.auf.edu.ph"> Angeles University Foundation. </a> 📕👩🏻‍💻
+  Hello! I'm Kaye Anne Mirador, a Computer Science student at <a href="https://www.auf.edu.ph"> Angeles University Foundation </a>, and
+  I finished IT in Mobile Application and Web Development at <a href="https://www.facebook.com/angeles.sti.edu"> STI College </a> 📕👩🏻‍💻
   <br>
   🌱 I'm currently learning about Java and Data Structures in R. 💻
   <br> 
