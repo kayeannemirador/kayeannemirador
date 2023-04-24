@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   Hello! I'm Kaye Anne Mirador, a Computer Science student at <a href="https://www.auf.edu.ph" target="_blank"> Angeles University Foundation</a>, 
-  <br> and I finished IT in Mobile Application and Web Development at <a href="https://www.facebook.com/angeles.sti.edu"  target="_blank"> STI College Angeles.</a> 📕👩🏻‍💻
+  <br> graduated IT in Mobile Application and Web Development at <a href="https://www.facebook.com/angeles.sti.edu"  target="_blank"> STI College Angeles.</a> 📕👩🏻‍💻
   </p>
   <p>
   <br>
