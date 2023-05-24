@@ -12,7 +12,7 @@
   </p>
   <p>
   <br>
-  🌱 I'm currently learning about Java and Data Structures in R. 💻
+  🌱 I'm currently learning about Kotlin. 💻
   <br> 
   👯 I’m looking to collaborate on an Ordering Mobile App 📱
   <br>
